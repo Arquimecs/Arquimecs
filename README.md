@@ -1,7 +1,16 @@
-.image-size {
-height: 100px;
-width: 100px
-}
+
+
+<html lang="en-US">
+<head>
+    <style>
+      .image-size {
+        height: 100px;
+        width: 100px
+        }
+
+  </style>
+</head>
+<body>
 
 ![image](https://github.com/user-attachments/assets/cd41a9e5-2ce8-4176-94d4-cf51afb40169)
 
