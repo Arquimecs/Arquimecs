@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
     <style>
@@ -8,7 +7,7 @@
         width: 100px
         }
 
-  </style>
+      </style>
 </head>
 <body>
 
