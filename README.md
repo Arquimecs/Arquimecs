@@ -14,8 +14,7 @@ Langs = "lua, JavaScript, HTML, CSS";
 CurrentFocus = "Learning Python";
 Contact = "bv4495038@gmail.com";
 Discord = "Jstellar";
-funFact = "Bad code can only be read by 2 people when it is created: The coder, and god.
- 6 months later, only god can understand it." 
+funFact = "Bad code can only be read by 2 people when it is created: The coder, and god. 6 months later, only god can understand it." 
 ```
 
 <div align="center">
