@@ -25,8 +25,8 @@ funFact = "Bad code can only be read by 2 people when it is created: The coder, 
 </div>
 <h3> Lets Collab: </h3>
 <p align="left"> 
-<a href="https://x.com/rblx_frozen" style="height: 50; width: 50"> <img src="![image](https://github.com/user-attachments/assets/ed7ac67d-fe3a-4649-a6a9-b91f1b914b9e)"> </img> </a>
-<a href="https://discord.gg/J9PgsdSXAj" style="height: 50; width: 75"> <img src="![image](https://github.com/user-attachments/assets/ed2d0b9a-61c7-4702-b3e3-ebdc28166c8f)"> </img> </a>
+<a href="https://x.com/rblx_frozen" style="height: 100; width: 100"> <img src="![image](https://github.com/user-attachments/assets/ed7ac67d-fe3a-4649-a6a9-b91f1b914b9e)"> </img> </a>
+<a href="https://discord.gg/J9PgsdSXAj" style="height: 100; width: 150"> <img src="![image](https://github.com/user-attachments/assets/ed2d0b9a-61c7-4702-b3e3-ebdc28166c8f)"> </img> </a>
 </p>
 <!---
 Arquimecs/Arquimecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
