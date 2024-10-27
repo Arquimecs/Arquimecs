@@ -10,7 +10,7 @@
 ```lua
 local Jstellar = {
 Pronouns = "He | Him",
-Langs = "lua, JavaScript, HTML, CSS";
+Langs = "Luau, JavaScript, HTML, CSS, Java";
 CurrentFocus = "Learning Python";
 Contact = "bv4495038@gmail.com";
 Discord = "Jstellar";
