@@ -8,7 +8,10 @@
 
 
 ```lua
-local Jstellar = {
+
+local Types = require(Types)
+
+local Jstellar: Types.Jstellar = {
 Pronouns = "He | Him",
 Langs = "Luau, JavaScript, HTML, CSS, Java";
 CurrentFocus = "Learning Python";
