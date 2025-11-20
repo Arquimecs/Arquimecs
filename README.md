@@ -11,7 +11,7 @@
 
 local Types = require(Types)
 
-local Pool: Types.Pool = {
+local Jstellar: Types.Jstellar = {
 Pronouns = "He | Him",
 Langs = "Luau, JavaScript, HTML, CSS, Java, Python";
 CurrentFocus = "1M CCU Grind";
