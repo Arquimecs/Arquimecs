@@ -9,7 +9,7 @@
 
 ```lua
 
-local Types = require(Types.luau)
+local Types = require(Modules/Types/CharacterTypes.luau)
 
 local Jstellar: Types.Jstellar = {
 Pronouns = "He | Him",
