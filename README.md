@@ -17,7 +17,7 @@ Langs = "Luau, JavaScript, HTML, CSS, Java, Python";
 CurrentFocus = "1M CCU Grind";
 Contact = {"bv4495038@gmail.com",  "bv2010cc@outlook.com"};
 Discord = {"willpoolrblx", "jstellar"}; -- i use both
-funFact = "Bad code can only be read by 2 people when it is created: The coder, and god. 6 months later, only god can understand it."
+funFact = "Bad code can only be read by 2 people: The coder, and god. 6 months later, only god can understand it."
 }
 ```
 
