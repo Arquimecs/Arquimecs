@@ -13,7 +13,7 @@ local Types = require(Modules/Types/CharacterTypes.luau)
 
 local Jstellar: Types.Jstellar = {
 Pronouns = "He | Him",
-Name = Bruno,
+Name = "Bruno",
 Langs = "Luau, JavaScript, HTML, CSS, Java, Python";
 CurrentFocus = "1M CCU Grind";
 Contact = {"bv4495038@gmail.com",  "bv2010cc@outlook.com"};
