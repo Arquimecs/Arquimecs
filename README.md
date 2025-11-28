@@ -12,10 +12,13 @@
 local Types = require(Modules/Types/CharacterTypes.luau)
 
 local Jstellar: Types.Jstellar = {
-Pronouns = "He | Him",
-Name = "Bruno",
-Langs = "Luau, JavaScript, HTML, CSS, Java, Python, C#";
-CurrentFocus = "1M CCU Grind";
+Pronouns = "He | Him";
+Name = "Bruno";
+MasteredLangs = "Luau", "Lua";
+IntermediateLangs = "JavaScript", "Java", "Python";
+WebDevelopment = "HTML-CSS"
+Learning = "C#", "Tailwind CSS"
+CurrentFocus = "Portfolio Work", "Burn-a-Brainrot";
 Contact = {"bv4495038@gmail.com",  "bv2010cc@outlook.com"};
 Discord = {"willpoolrblx", "jstellar"}; -- i use both
 funFact = "Bad code can only be read by 2 people: The coder, and god. 6 months later, only god can understand it."
