@@ -15,13 +15,13 @@ local Jstellar: Types.Jstellar = {
 Gender = "Male";
 Name = "Bruno";
 MasteredLangs = "Luau", "Lua";
-IntermediateLangs = "JavaScript", "Java", "Python";
-WebDevelopment = "HTML-CSS"
-Learning = "C#", "Tailwind CSS"
-CurrentFocus = "Portfolio Work", "Burn-a-Brainrot";
+IntermediateLangs = {"JavaScript", "Java", "Python"};
+WebDevelopment = "HTML-CSS";
+Learning = {"C#", "Tailwind CSS"};
+CurrentFocus = {"Portfolio Work", "Burn-a-Brainrot"};
 Contact = {"bv4495038@gmail.com",  "bv2010cc@outlook.com"};
 Discord = {"willpoolrblx", "jstellar"}; -- i use both
-funFact = "Bad code can only be read by 2 people: The coder, and god. 6 months later, only god can understand it."
+funFact = "Bad code can only be read by 2 people: The coder, and god. 6 months later, only god can understand it.";
 }
 ```
 
